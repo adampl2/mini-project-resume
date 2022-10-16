@@ -5,5 +5,12 @@ header {
 }
 
 .logo {
-    
+    background: url("../images/adam.prof.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
