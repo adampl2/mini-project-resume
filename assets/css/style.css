@@ -185,6 +185,10 @@ footer {
     margin: 0;
 }
 
+.general-sub {
+    font-weight: 500;
+} 
+
 .cv-pdf i {
     font-size: 18px;
     color: #fafafa;
