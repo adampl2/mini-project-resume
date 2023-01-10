@@ -7,6 +7,7 @@ function sendMail(contactForm) {
         .then(
             function (response) {
                 console.log("SUCCESS", response.status, response.text);
+                alert("You request has been submitted successfully!")
             },
             function (error) {
                 console.log("FAILED", error);
